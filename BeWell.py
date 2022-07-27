@@ -11,10 +11,11 @@ from streamlit_option_menu import option_menu
 
 # loading the saved models
 
-diabetes_model = pickle.load(open('C:/BeWell/diabetes_model_1.sav','rb'))
+#diabetes_model = pickle.load(open('C:/BeWell/diabetes_model_1.sav','rb'))
+#heart_disease_model = pickle.load(open('C:/BeWell/heart_disease1.sav','rb'))
 
-heart_disease_model = pickle.load(open('C:/BeWell/heart_disease1.sav','rb'))
-
+diabetes_model = pickle.load(open('diabetes_model_1.sav','rb'))
+heart_disease_model = pickle.load(open('heart_disease1.sav','rb'))
 
 # sidebar for navigation
 with st.sidebar :
