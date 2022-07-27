@@ -8,6 +8,16 @@ A Machine Learning Project to predict multiple diseases like Diabetes, Heart Dis
 * Libraries used Numpy,Pandas,Sklearn
 * Deployed on Heroku with help of Streamlit
 
+## Overview
+This project has been broken down in to the following steps:
+* Data Collection
+* Data Preprocessing
+* Splitting of Data for training and testing purpose
+* Model building
+* Evaluation on Training Data
+* Evaluation on Testing Data
+
+
 ## Project Preview
 
 ![Diabetes](https://user-images.githubusercontent.com/75260179/181391168-fe747503-0a86-4988-8c71-814f8f29ac22.png)
