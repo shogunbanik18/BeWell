@@ -8,10 +8,8 @@ A Machine Learning Project to predict multiple diseases like Diabetes, Heart Dis
 * Libraries used Numpy,Pandas,Sklearn
 * Deployed on Heroku with help of Streamlit
 
+## Project Preview
 
-This web page will help to see if someone has a certain disease or not.This is very good for emergency situations.
-
-### Project Preview
 ![Diabetes](https://user-images.githubusercontent.com/75260179/181391168-fe747503-0a86-4988-8c71-814f8f29ac22.png)
 
 ![Diabetes!](https://user-images.githubusercontent.com/75260179/181391167-17424a60-1cba-4d15-8000-8b0870e02bcb.png)
