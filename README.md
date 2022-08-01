@@ -1,7 +1,7 @@
 <p align="center"><img width="450" height="300" src="https://user-images.githubusercontent.com/75260179/181617558-f6c66d2d-1200-478d-8479-c97183e1b442.jpg" width="300" height="300"> </p>
 
 ## Project Link :  https://bewell-shogun18.herokuapp.com/
-## BeWell_Web_App
+## BeWell || Multiple Disease Predictor
 A Machine Learning Project to predict multiple diseases like Diabetes, Heart Disease etc from symptoms given by user using Support Vector Machine Algorithm
 
 * Data Science Supervised Machine learning Project
