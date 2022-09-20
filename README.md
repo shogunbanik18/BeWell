@@ -19,7 +19,6 @@ This project has been broken down in to the following steps:
 * Evaluation on Training Data
 * Evaluation on Testing Data
 
-
 ## Project Preview
 
 ![Diabetes](https://user-images.githubusercontent.com/75260179/181391168-fe747503-0a86-4988-8c71-814f8f29ac22.png)
